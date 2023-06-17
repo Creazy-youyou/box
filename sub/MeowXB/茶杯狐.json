@@ -19,8 +19,8 @@
   "lianjieqian": "href=\"", 
   "lianjiehou": "\"", 
 
-  "sousuoqian": "/search.php?page=1&searchword=马",
-  "sousuohou": "&limit=500",
+  "sousuoqian": "/search.php?page=1&searchword=",
+  "sousuohou": "",
   "sousuohouzhui": "/cupfox/", 
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
